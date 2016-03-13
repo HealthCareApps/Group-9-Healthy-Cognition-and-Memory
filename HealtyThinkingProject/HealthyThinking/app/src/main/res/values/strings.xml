@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">HealthyThinking</string>
-    <string name="about">About</string>
-    <string name="action_settings">Settings</string>
-    <string name="negativeThought">Negative Thinking Patterns\n\nMind Reading: This is where an individual jumps into conclusion about what other people are thinking without no indication that the person feels that way.\n\nFiltering: This is where an individual focuses only on the negative parts of a situation and disregard all things positive.\n\nPersonalization: This is where an individual makes every negative thing about them. They believe that it\'s their fault that the negative thing happen.\n\nFortune Telling: This is where an individual thinks every negative thing is apart of some cycle and just because a certain incident occurred something else is bound to happen.\n\nBlack and White Thinking: This is where an individual sees things only as good or bad and never see any middle ground.</string>
-
-
-</resources>
