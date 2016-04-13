@@ -1,0 +1,4 @@
+Practicing positive thinking detailed information is now added.
+Practicing positive thinking's detail TextView is hidden until user clicks on the title TextView1. 
+Expandable RecyclerView added to Practicing Fragment to improve usability.
+No update to AR yet
