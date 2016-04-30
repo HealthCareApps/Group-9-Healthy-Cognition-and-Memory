@@ -1,0 +1,6 @@
+AppBarLayout off the screen when scrolling to make more room for content
+App logo is added to home framgment
+Overflow menu has been removed
+Toolbar titles changes to show title of each tab when selected
+fab removed
+AR application update
